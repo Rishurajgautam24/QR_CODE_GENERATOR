@@ -10,10 +10,12 @@ Installation Steps
 How to run it
 1. <code>python qr_gen.py</code>
 
-<p>It takes Two inputs</p>
-First -> The url of which QR code You want to generate
-Second -> Name of the file you want output as
-
+<p>It takes Two inputs</p> <br>
+First -> The url of which QR code You want to generate <br>
+Second -> Name of the file you want output as <br>
+ <br>
+  <br>
 This project is Made by Rishu Raj Gautam <br>
+Connect me on  <br>
 linkdein - <a href="https://www.linkedin.com/in/rishurajgautam/">Rishurajgautam</a> <br>
 Github - <a href="https://www.github.com/in/rishurajgautam/">Rishurajgautam24</a>
