@@ -14,6 +14,6 @@ How to run it
 First -> The url of which QR code You want to generate
 Second -> Name of the file you want output as
 
-This project is Made by Rishu Raj Gautam
-linkdein - <a href="https://www.linkedin.com/in/rishurajgautam/">Rishurajgautam</a>
+This project is Made by Rishu Raj Gautam <br>
+linkdein - <a href="https://www.linkedin.com/in/rishurajgautam/">Rishurajgautam</a> <br>
 Github - <a href="https://www.github.com/in/rishurajgautam/">Rishurajgautam24</a>
