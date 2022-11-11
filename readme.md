@@ -17,5 +17,4 @@ Second -> Name of the file you want output as <br>
   <br>
 This project is Made by Rishu Raj Gautam <br>
 Connect me on  <br>
-linkdein - <a href="https://www.linkedin.com/in/rishurajgautam/">Rishurajgautam</a> <br>
-Github - <a href="https://www.github.com/in/rishurajgautam/">Rishurajgautam24</a>
+linktree - <a href="https://linktr.ee/rishurajgautam">Rishurajgautam</a>
